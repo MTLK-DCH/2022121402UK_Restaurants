@@ -22,3 +22,4 @@ def jwt_required(func):
         return func(*args, **kwargs)
 
     return jwt_required_wrapper
+

@@ -7,5 +7,5 @@ db = client.UK_Restaurant
 Users = db.Users
 Restaurants = db.Restaurants
 Raw = db.originaldata
-
+Traffic = db.Traffic
 
